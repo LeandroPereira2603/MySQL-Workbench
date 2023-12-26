@@ -10,10 +10,6 @@
 | Código Fonte - local do repositório | ☕|
 --->
 
-## tópicos (Github Pages) 
-### Alguns exemplos : 
-* [  ]()
-* [ Os ]
 
 ## tópico -  (link wiki)  
 * [ CREATE TABLE ]
