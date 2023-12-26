@@ -18,6 +18,7 @@
 ## tópico -  (link wiki)  
 * [ CREATE TABLE ]
 * [ DELETE TABLE ]
+* [ INNER JOIN ]
 
 ## tópico - comandos (link wiki)  
 * [ SELECT ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/SELECT)
