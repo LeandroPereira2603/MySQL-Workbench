@@ -37,7 +37,7 @@
 * [ INSERT ]
 * [ DROOP ]
 * [ GROUP BY ]
-* [ ORDER BY ]
+* [ ORDER BY ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/ORDER-BY)
 * [ HAVING ]
 * [ COUNT ]
 * [ SUM ]
