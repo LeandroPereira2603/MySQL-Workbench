@@ -18,7 +18,7 @@
 ## tópico - comandos (link wiki)  
 * [ SELECT ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/SELECT)
 * [ FROM ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/FROM)
-* [ WHERE ]
+* [ WHERE ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/WHERE)
 * [ AS ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/AS)
 * [ JOIN ]
 * [ AND ]
