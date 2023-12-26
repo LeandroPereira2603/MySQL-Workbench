@@ -12,12 +12,12 @@
 
 ## tópicos (Github Pages) 
 ### Alguns exemplos : 
-* [✅  ]()
+* [  ]()
 * [ Os ]
 
 ## tópico - comandos (link wiki)  
-* [✅ SELECT ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/SELECT)
-* [ FROM ]
+* [ SELECT ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/SELECT)
+* [ FROM ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/FROM)
 * [ WHERE ]
 * [ AS ]
 * [ JOIN ]
