@@ -16,7 +16,7 @@
 * [ Os ]
 
 ## tópico - comandos (link wiki)  
-* [✅ SELECT ]()
+* [✅ SELECT ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/SELECT)
 * [ FROM ]
 * [ WHERE ]
 * [ AS ]
