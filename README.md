@@ -17,7 +17,7 @@
 
 ## tópico -  (link wiki)  
 * [ CREATE TABLE ]
-* [ delete TABLE ]
+* [ DELETE TABLE ]
 
 ## tópico - comandos (link wiki)  
 * [ SELECT ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/SELECT)
