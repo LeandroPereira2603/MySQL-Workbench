@@ -23,7 +23,7 @@
 * [ JOIN ]
 * [ AND ]
 * [ OR ]
-* [ LIMIT ]()
+* [ LIMIT ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/LIMITE)
 * [ IN ]
 * [ CASE ]
 * [ IS NULL ]
