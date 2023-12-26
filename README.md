@@ -23,7 +23,7 @@
 * [ JOIN ]
 * [ AND ]
 * [ OR ]
-* [ LIMIT ]
+* [ LIMIT ]()
 * [ IN ]
 * [ CASE ]
 * [ IS NULL ]
