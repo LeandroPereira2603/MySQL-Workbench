@@ -15,6 +15,10 @@
 * [  ]()
 * [ Os ]
 
+## tópico -  (link wiki)  
+* [ CREATE TABLE ]
+* [ delete TABLE ]
+
 ## tópico - comandos (link wiki)  
 * [ SELECT ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/SELECT)
 * [ FROM ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/FROM)
