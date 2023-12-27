@@ -16,32 +16,7 @@
 * [ DELETE TABLE ]
 * [ INNER JOIN ]
 
-## tópico - comandos (link wiki)  
-* [ SELECT ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/SELECT)
-* [ FROM ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/FROM)
-* [ WHERE ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/WHERE)
-* [ AS ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/AS)
-* [ JOIN ]
-* [ AND ]
-* [ OR ]
-* [ LIMIT ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/LIMITE)
-* [ IN ]
-* [ CASE ]
-* [ IS NULL ]
-* [ LIKE ]
-* [ COMMIT ]
-* [ ROLLBACK ]
-* [ ALTER TABLE ]
-* [ UPDATE ]
-* [ CREATE ]
-* [ DELETE ]
-* [ INSERT ]
-* [ DROOP ]
-* [ GROUP BY ]
-* [ ORDER BY ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/ORDER-BY)
-* [ HAVING ]
-* [ COUNT ]
-* [ SUM ]
-* [ AVG ]
-* [ MIN ]
-* [ MAX ]
+## tópico (link wiki)  
+* [ História e sintaxe da linguagem  ]()
+* [ Comandos SQL ]()
+
