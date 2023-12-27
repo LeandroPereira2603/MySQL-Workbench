@@ -17,6 +17,6 @@
 * [ INNER JOIN ]
 
 ## tópico (link wiki)  
-* [ História e sintaxe da linguagem  ]()
+* [ História e sintaxe da linguagem  ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/Hist%C3%B3ria-e-sintaxe)
 * [ Comandos SQL ]()
 
