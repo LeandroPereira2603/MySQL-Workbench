@@ -1,5 +1,5 @@
 # MySQL-Workbench (Geral)
- <p> Aqui terá todos as anotaçôes da linguagem SQL  e SGBD MySql</p>
+ <p> Aqui terá todos os links de acesso aos repositórios da linguagem SQL  e SGBD MySql</p>
  
 <!---
 <strong> Os significados dos logotipos :</strong>
