@@ -18,7 +18,7 @@
 * [Exemplos de códigos](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/C%C3%B3digos-exemplos)
 
 
-Exemplo de sintaxe : código em linguagem SQL no software SGBD : MySql : Workbench 8.0 
+**Exemplo de sintaxe** : código em linguagem SQL no software SGBD : MySql : Workbench 8.0 
 
  ```sql
 CREATE TABLE pessoas (
