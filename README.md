@@ -12,7 +12,7 @@
 
 
 ## tópicos (link wiki)  
-* [ História / instalação / sintaxe da lingagem   ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/Hist%C3%B3ria-e-sintaxe)
+* [ História / instalação / sintaxe da lingagem   ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/Hist%C3%B3ria-----intala%C3%A7%C3%A3o----sintaxe-da-linguagem)
 * [ Comandos SQL ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/SQL-%E2%80%90-comandos)
 * [Tipos primitivos](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/Tipos-priimitivos)
 * [Exemplos de códigos](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/C%C3%B3digos-exemplos)
