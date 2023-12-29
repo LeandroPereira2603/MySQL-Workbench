@@ -10,6 +10,7 @@
  `nome` VARCHAR (20),
  `peso` float
  );
+ 
 --exemplo sem crase
 
  CREATE TABLE exemplo (
