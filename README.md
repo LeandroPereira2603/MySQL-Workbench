@@ -20,7 +20,9 @@
 
 
 **Exemplo de sintaxe** : código em linguagem SQL no software SGBD : MySql : Workbench 8.0 
-
+```sql
+ CREATE DATABASE cadastro;
+```
  ```sql
 CREATE TABLE pessoas (
 nome varchar(30),
