@@ -14,7 +14,7 @@
 ## tópicos (link wiki)  
 * [ História / instalação / sintaxe da linguagem   ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/Hist%C3%B3ria-----intala%C3%A7%C3%A3o----sintaxe-da-linguagem)
 * [ Comandos SQL ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/SQL-%E2%80%90-comandos)
-* [ Manipulação de linhas ( UPDATE , DELETE e TRUCATE )(https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/Manipulando-linhas-(UPDATE-,-DELETE-E-TRUCATE-))
+* [ Manipulação de linhas ( UPDATE , DELETE e TRUCATE )](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/Manipulando-linhas-(UPDATE-,-DELETE-E-TRUCATE-))
 * [Tipos primitivos](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/Tipos-priimitivos)
 * [Constraint - parâmetros](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/CONSTRAINT)
 * [Exemplos de códigos](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/C%C3%B3digos-exemplos)
