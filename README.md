@@ -11,7 +11,7 @@
 --->
 
 
-## 📚 Tópicos : estudos (link wiki)  
+## 📚 Tópicos de estudos (link wiki)  
 ### Sobre SQL e utilidades do sofware MySql Workbench
 
 * [ História / instalação / sintaxe da linguagem   ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/Hist%C3%B3ria-----intala%C3%A7%C3%A3o----sintaxe-da-linguagem)
