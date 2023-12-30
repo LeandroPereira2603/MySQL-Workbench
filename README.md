@@ -12,6 +12,8 @@
 
 
 ## tópicos (link wiki)  
+### Básico
+
 * [ História / instalação / sintaxe da linguagem   ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/Hist%C3%B3ria-----intala%C3%A7%C3%A3o----sintaxe-da-linguagem)
 * [Tipos primitivos](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/Tipos-priimitivos)
 * [ Comandos SQL ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/SQL-%E2%80%90-comandos)
