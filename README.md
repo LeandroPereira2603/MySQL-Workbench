@@ -30,7 +30,7 @@
 
 # 💻 Prática 
 
-### Exercicios
+### Exemplos de uso de comandos 
 
 * [Exemplos de códigos ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/C%C3%B3digos-exemplos)
 
