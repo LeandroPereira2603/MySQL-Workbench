@@ -28,7 +28,9 @@
 * [ Manipulação de linhas ( UPDATE , DELETE e TRUCATE )](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/Manipulando-linhas-(UPDATE-,-DELETE-E-TRUCATE-))
 * [Constraint - parâmetros](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/CONSTRAINT)
 
-### 💻 Prática 
+# 💻 Prática 
+
+### Exercicios
 
 * [Exemplos de códigos ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/C%C3%B3digos-exemplos)
 
