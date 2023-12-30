@@ -96,4 +96,26 @@ DQL (Data Query Language )
 
 SELECT
 
+
+Comandos para o terminal prompt de comando
+   describle pessoas
+ou
+
+    desc pessoas
+serve para mostrar as informaçôes do tipo e os nomes da tabela
+
+   show database
+mostra todos os bancos de dados
+
+ use cadastro
+vai selecionar o banco de dados cadastro que
+
+ status
+mostra qual e o banco de dados que esta sendo formatado
+
+ show table
+mostra a tabela
+
+
+
 */
