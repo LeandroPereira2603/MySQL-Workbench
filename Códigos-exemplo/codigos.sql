@@ -1,6 +1,8 @@
 
 -- Criar um Banco de dados exemplo : bd --
+
 CREATE DATABASE bd ;
+
 -- Criar tabela e criar colunas com definição de tipo no bd --
 
 CREATE TABLE pessoas (
