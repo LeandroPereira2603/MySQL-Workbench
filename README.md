@@ -33,7 +33,7 @@
 
 ## 💻 Prática 
 
-### Criações de banco de dados , com registros  .
+### Criações de banco de dados , com registros passo a passo .
 
 * [🟢 Banco de dados : bd (wiki) ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/C%C3%B3digos-exemplos) ☕ [Arquivo: SQL](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Pratica/bd.sql)
 
