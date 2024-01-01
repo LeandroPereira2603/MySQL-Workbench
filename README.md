@@ -1,14 +1,15 @@
 # MySQL-Workbench (Geral)
  <p> Aqui terá todos os links de acesso aos repositórios da linguagem SQL  e SGBD MySql</p>
  
-<!---
-<strong> Os significados dos logotipos :</strong>
-|Descrição | Logotipo   |
-|:--: |:--:|
-| Projeto em desenvolvimento    |  🛑  |
-| Meus projetos Favoritos | :heart: |
-| Código Fonte - local do repositório | ☕|
---->
+
+<strong> Legenda :</strong>
+
+|Descrição | Logotipo   | Total |
+|:--: |:--:|:--:|
+| Projeto em desenvolvimento    |  🛑  | 0 |
+| Meus projetos Favoritos | ⭐ | 0 |
+| Código Fonte - local do repositório | ☕| 1 |
+
 
 
 ## 📚 Tópicos de estudos (link wiki)  
@@ -32,7 +33,7 @@
 
 ### Exemplos de uso de comandos 
 
-* [Exemplos de códigos (wiki) ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/C%C3%B3digos-exemplos) [Arquivo: SQL](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Pratica/bd.sql)
+* [Exemplos de códigos (wiki) ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/C%C3%B3digos-exemplos) ☕ [Arquivo: SQL](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Pratica/bd.sql)
 
 
 **Exemplo de sintaxe** : código em linguagem SQL no software SGBD : MySql : Workbench 8.0 
