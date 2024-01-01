@@ -33,7 +33,7 @@
 
 ## 💻 Prática 
 
-### Criaçôes de banco de dados  
+### Criaçôes de banco de dados , e com comandos utilizados de filtragem e alterações .
 
 * [🟢 Banco de dados : bd (wiki) ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/C%C3%B3digos-exemplos) ☕ [Arquivo: SQL](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Pratica/bd.sql)
 
