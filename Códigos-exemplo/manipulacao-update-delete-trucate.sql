@@ -1,8 +1,7 @@
---UPDATE--
+-- UPDATE --
 UPDATE cursos 
 SET nome = "HTML5" , ano ="2015"
 WHERE id = '1' ;
-
 
 UPDATE = atualizar
 SET = configure alterar

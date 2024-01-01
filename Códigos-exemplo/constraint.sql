@@ -1,6 +1,6 @@
 NOT NULL
 
---- exemplo: --
+-- exemplo: --
 
  CREATE TABLE pessoas (
  nome VARCHAR (30) NOT NULL ,
@@ -12,13 +12,13 @@ NOT NULL
 ) DEFAULT CHARSET = utf8 ;
 NOT NULL = obrigatório o usuário preencher este espaço .
 
---ENUM = selecionar apenas estas duas opções .--
+-- ENUM = selecionar apenas estas duas opções . --
 
 DECIMAL = DECIMAL(3,2) = 102,00 .
 DEFAULT = se o úsuario não preencher este espaço , ira colocar o padrção Brasil .
 DEFAULT CHARSET - UTF8 = vai padronizar com caracteres com acento .
 
---os parâmetros em MySql são CONSTRAINT .--
+-- os parâmetros em MySql são CONSTRAINT . --
 
 PRIMARY KEY & AUTO INCREMENT
  CREATE TABLE pessoas (
@@ -32,17 +32,17 @@ PRIMARY KEY & AUTO INCREMENT
  PRIMARY KEY (id)
 ) DEFAULT CHARSET = utf8 ;
 
---AUTO_INCREMENT = toda vez que é adicionado um novo cadastro irá colocar um número em ordem crescente .--
+-- AUTO_INCREMENT = toda vez que é adicionado um novo cadastro irá colocar um número em ordem crescente .--
 
 PRIMARY KEY = serve para não ter duplicidade .
-UNIQUE / USIGNED
+ UNIQUE / USIGNED
  CREATE TABLE IF NOT EXISTS cursos (
  nome VARCHAR(30) NOT NULL UNIQUE,
  descricao text ,
  carga int UNSIGNED ,
  totaulas int ,
  ano year DEFAULT '2016'
- ) DEFAULT CHARSET = utf8;
+) DEFAULT CHARSET = utf8;
 
 /*IF NOT EXISTS = serve para verificar se ja tem no banco de dados , exemplo o nome cursos , para não reescrever por cima.
 UNIQUE = serve para não deixar colocar o mesmo nome .
