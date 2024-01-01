@@ -34,7 +34,7 @@
 
 ### Criaçôes de banco de dados  
 
-* [💻 Banco de dados ; bd (wiki) ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/C%C3%B3digos-exemplos) ☕ [Arquivo: SQL](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Pratica/bd.sql)
+* [💻 Banco de dados : bd (wiki) ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/C%C3%B3digos-exemplos) ☕ [Arquivo: SQL](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Pratica/bd.sql)
 
 
 **Exemplo de sintaxe** : código em linguagem SQL no software SGBD : MySql : Workbench 8.0 
