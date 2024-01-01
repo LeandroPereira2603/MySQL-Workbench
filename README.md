@@ -33,17 +33,14 @@
 
 ## 💻 Prática 
 
-### Criações de banco de dados , com registros passo a passo .
+### Exercicíos gerais , usando como referência ao banco de dados : "bd" .
+
+* Filtrar 
+* Inserir 
+* Deletar  
+* Alterar 
 
 * [🟢 Banco de dados : bd (wiki) ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/C%C3%B3digos-exemplos) ☕ [Arquivo: SQL](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Pratica/bd.sql)
-
-### Exercicíos gerais , usando como referência ao banco de dados : " " .
-
-* [ Filtrar ]
-* [ Inserir ] 
-* [ Deletar ] 
-* [ Alterar ] 
-
 
 **Exemplo de sintaxe** : código em linguagem SQL no software SGBD : MySql : Workbench 8.0 
 ```sql
