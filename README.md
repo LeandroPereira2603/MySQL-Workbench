@@ -37,7 +37,7 @@
 
 * [🟢 Banco de dados : bd (wiki) ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/C%C3%B3digos-exemplos) ☕ [Arquivo: SQL](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Pratica/bd.sql)
 
-### Simulações reais situações  gerais , usando como referência ao banco de dados : " " .
+### Exercicíos gerais , usando como referência ao banco de dados : " " .
 
 * [ Filtrar ]
 * [ Inserir ] 
