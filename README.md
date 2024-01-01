@@ -4,12 +4,12 @@
 
 <strong> Legenda :</strong>
 
-|Descrição | Logotipo   | Total |
+|Descrição | Logotipo   | Totais |
 |:--: |:--:|:--:|
-| Projetos Abandonados | 🔴 | 0 |
-| Projetos em desenvolvimento    |  🟡  | 0 |
-| Projetos concluídos    |  🟢  | 1 |
-| Meus projetos Favoritos | ⭐ | 0 |
+| Abandonado | 🔴 | 0 |
+| Em desenvolvimento    |  🟡  | 0 |
+| Concluído    |  🟢  | 1 |
+| Favorito | ⭐ | 0 |
 | Código Fonte - local do repositório | ☕| 1 |
 
 
@@ -35,7 +35,7 @@
 
 ### Criaçôes de banco de dados  
 
-* [💻 Banco de dados : bd (wiki) ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/C%C3%B3digos-exemplos) ☕ [Arquivo: SQL](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Pratica/bd.sql)
+* [🟢 Banco de dados : bd (wiki) ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/C%C3%B3digos-exemplos) ☕ [Arquivo: SQL](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Pratica/bd.sql)
 
 
 **Exemplo de sintaxe** : código em linguagem SQL no software SGBD : MySql : Workbench 8.0 
