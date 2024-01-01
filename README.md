@@ -30,7 +30,7 @@
 * [ Comandos SQL ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/SQL-%E2%80%90-comandos)
 * [ Manipulação de linhas ( UPDATE , DELETE e TRUCATE )](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/Manipulando-linhas-(UPDATE-,-DELETE-E-TRUCATE-))
 * [Constraint - parâmetros](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/CONSTRAINT)
-* [exemplos de código](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/C%C3%B3digos-exemplos)
+* [Exemplos de código](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/C%C3%B3digos-exemplos)
 
 ## 💻 Prática 
 
