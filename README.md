@@ -7,7 +7,7 @@
 |Descrição | Logotipo   | Total |
 |:--: |:--:|:--:|
 | Projeto em desenvolvimento    |  🛑  | 0 |
-| Projetos concluídos    |  💻  | 1 |
+| Projetos concluídos    |  ✓  | 1 |
 | Meus projetos Favoritos | ⭐ | 0 |
 | Código Fonte - local do repositório | ☕| 1 |
 
