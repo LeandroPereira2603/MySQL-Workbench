@@ -4,7 +4,7 @@
 CREATE DATABASE bd ;
 
 -- Verificar --
--- Verificar se o banco de dados est selecionado , senão nenhum código irá funcionar --
+-- Verificar se o banco de dados esta selecionado , senão nenhum código irá funcionar --
 
 USE bd ;
 
