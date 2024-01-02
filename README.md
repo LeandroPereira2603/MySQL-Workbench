@@ -14,23 +14,24 @@
 
 
 
-## 📚 Tópicos de estudos (link wiki)  
+## 📚 Tópicos de estudos 
+### Arquivo do repoositório explicaçôes (extensão ; md)
 ### Sobre SQL e utilidades do sofware MySql Workbench
 
-* [ História / instalação / sintaxe da linguagem   ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/Hist%C3%B3ria-----intala%C3%A7%C3%A3o----sintaxe-da-linguagem)
-* [Cópia de segurança](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/Copia-de-Seguran%C3%A7a)
+* [ História / instalação / sintaxe da linguagem   ]
+* [Cópia de segurança]
 
 
 
 ### Linguagem de programação SQL 
 
-* [Tipos primitivos](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/Tipos-priimitivos)
-* [Operadores relacionais](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/Operadores-relacionais)
-* [Operadores de lógica](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/Operadores-de-l%C3%B3gica)
-* [ Todos os Comandos SQL  ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/SQL-%E2%80%90-comandos)
-* [ Manipulação de linhas ( UPDATE , DELETE e TRUCATE )](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/Manipulando-linhas-(UPDATE-,-DELETE-E-TRUCATE-))
-* [Constraint - parâmetros](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/CONSTRAINT)
-* [Exemplos de código](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/C%C3%B3digos-exemplos)
+* [Tipos primitivos]
+* [Operadores relacionais]
+* [Operadores de lógica]
+* [ Todos os Comandos SQL  ]
+* [ Manipulação de linhas ( UPDATE , DELETE e TRUCATE )]
+* [Constraint - parâmetros]
+* [Exemplos de código]
 
 ## 💻 Prática 
 
