@@ -27,7 +27,7 @@
 * [Tipos primitivos](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/Tipos-priimitivos)
 * [Operadores relacionais](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/Operadores-relacionais)
 * [Operadores de lógica](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/Operadores-de-l%C3%B3gica)
-* [ Comandos SQL ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/SQL-%E2%80%90-comandos)
+* [ Todos os Comandos SQL  ](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/SQL-%E2%80%90-comandos)
 * [ Manipulação de linhas ( UPDATE , DELETE e TRUCATE )](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/Manipulando-linhas-(UPDATE-,-DELETE-E-TRUCATE-))
 * [Constraint - parâmetros](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/CONSTRAINT)
 * [Exemplos de código](https://github.com/LeandroPereira2603/MySQL-Workbench/wiki/C%C3%B3digos-exemplos)
@@ -36,7 +36,7 @@
 
 ### Exercicíos gerais : 
 
-* 🟢 Banco de dados : bd  ☕ [Arquivo: SQL](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Pratica/bd.sql)
+* 🟢 Criar e alterar o Banco de dados : bd  ☕ [Arquivo: SQL](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Pratica/bd.sql)
 
 
 ### Situações : 
