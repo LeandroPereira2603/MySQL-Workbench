@@ -1,4 +1,4 @@
-NOT NULL
+-- NOT NULL --
 
 -- exemplo: --
 
