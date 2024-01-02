@@ -1,18 +1,25 @@
-/*Numericos
 
-Inteiro : TinyInt , SmallInt , Int, MediumInt , BigInt
-Real : Decimal , Float , Double , Real
-Lógico : Bit , booleam
+## Numericos  
 
-Data/tempo
-Data / tempo : Date , DateTime , TimeStamp , Time ,Yer
+   **Inteiro** : TinyInt , SmallInt , Int, MediumInt , BigInt <br>
+   **Real** : Decimal , Float , Double , Real  <br>
+   **Lógico** : Bit , booleam  
 
-literal
-Literal : Char , VarChar   
-Texto : TyniText , Text , MediumText , LongText   
-Binario : TinyBlob , Blob , MediumBlob , LongBlob  
-Coleção : Enum , Set  
-Espacial
- Especial :  geometry , Point , Polygon , MultiPolygon
+
+## Data/tempo  
+
+   **Data / tempo** :  Date , DateTime , TimeStamp , Time ,Year  
+
+## literal  
    
- */
+    Literal : Char , VarChar   
+    Texto : TyniText , Text , MediumText , LongText   
+    Binario : TinyBlob , Blob , MediumBlob , LongBlob  
+    Coleção : Enum , Set  
+
+
+## Espacial 
+  
+
+     Especial :  geometry , Point , Polygon , MultiPolygon  
+
