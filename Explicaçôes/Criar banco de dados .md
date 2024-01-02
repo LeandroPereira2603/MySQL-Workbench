@@ -24,7 +24,7 @@ USE leandro ;
 
 ```sql 
 
-INSERT INTO especie 
+INSERT INTO especies
 (id , nome , peso , altura , habitat ) 
 VALUES
 (id, "butterfly","00.80", "0.7","insect" );
