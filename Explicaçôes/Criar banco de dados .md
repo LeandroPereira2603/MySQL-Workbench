@@ -7,7 +7,7 @@ CREATE DATABASE leandro ;
 ```sql 
 
 CREATE TABLE especies ( 
-id int AUTO'INCREMENT NOT NULL ,
+id int AUTO_INCREMENT NOT NULL ,
 nome VARCHAR (20),
 peso DECIMAL (2,2),
 altura float , 
