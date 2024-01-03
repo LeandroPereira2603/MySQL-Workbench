@@ -29,7 +29,7 @@
 * [Tipos primitivos](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Explica%C3%A7%C3%B4es/tipos-primitivos.md)
 * [Operadores relacionais](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Explica%C3%A7%C3%B4es/Operadores%20relacionais.md)
 * [Operadores de lógica](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Explica%C3%A7%C3%B4es/Operadores%20de%20l%C3%B3gica.md)
-* [ Todos os Comandos SQL  ]
+* [ Todos os Comandos SQL  ](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Explica%C3%A7%C3%B4es/Comandos%20sql.md)
 * [ Manipulação de linhas ( UPDATE , DELETE e TRUCATE )]
 * [Constraint - parâmetros]
 * [Exemplos de código]
