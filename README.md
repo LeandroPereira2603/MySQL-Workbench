@@ -19,7 +19,7 @@
 
 ### Sobre SQL e utilidades do sofware MySql Workbench
 
-* [ História / instalação / sintaxe da linguagem   ]
+* [ História / instalação / sintaxe da linguagem   ](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Explica%C3%A7%C3%B4es/Historia-instala%C3%A7%C3%A3o.md)
 * [Cópia de segurança]
 
 
