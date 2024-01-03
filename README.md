@@ -8,7 +8,7 @@
 |:--: |:--:|:--:|
 | Abandonado | 🔴 | 0 |
 | Em desenvolvimento    |  🟡  | 0 |
-| Concluído    |  🟢  | 1 |
+| Concluído    |  💻  | 1 |
 | Favorito | ⭐ | 0 |
 | Código Fonte - local do repositório | ☕| 1 |
 
@@ -38,7 +38,7 @@
 
 ### Exercicíos gerais : 
 
-* 🟢 Criar e alterar o Banco de dados : bd  ☕ [Arquivo: SQL](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Pratica/bd.sql)
+* 💻 Criar e alterar o Banco de dados : bd  ☕ [Arquivo: SQL](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Pratica/bd.sql)
 
 
 ### Situações : 
