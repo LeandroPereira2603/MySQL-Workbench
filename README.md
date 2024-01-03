@@ -16,7 +16,6 @@
 
 ## 📚 Tópicos de estudos 
 
-### Link de acesso ao arquivo do repositório explicaçôes ( extensão : md )
 
 ### Sobre SQL e utilidades do sofware MySql Workbench
 
