@@ -26,7 +26,7 @@
 
 ### Linguagem de programação SQL 
 
-* [Tipos primitivos]
+* [Tipos primitivos](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Explica%C3%A7%C3%B4es/tipos-primitivos.md)
 * [Operadores relacionais]
 * [Operadores de lógica]
 * [ Todos os Comandos SQL  ]
