@@ -27,7 +27,7 @@
 ### Linguagem de programação SQL 
 
 * [Tipos primitivos](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Explica%C3%A7%C3%B4es/tipos-primitivos.md)
-* [Operadores relacionais]
+* [Operadores relacionais](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Explica%C3%A7%C3%B4es/Operadores%20relacionais.md)
 * [Operadores de lógica]
 * [ Todos os Comandos SQL  ]
 * [ Manipulação de linhas ( UPDATE , DELETE e TRUCATE )]
