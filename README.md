@@ -31,7 +31,7 @@
 * [Operadores de lógica](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Explica%C3%A7%C3%B4es/Operadores%20de%20l%C3%B3gica.md)
 * [ Todos os Comandos SQL  ](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Explica%C3%A7%C3%B4es/Comandos%20sql.md)
 * [ Manipulação de linhas ( UPDATE , DELETE e TRUCATE )](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Explica%C3%A7%C3%B4es/Manipulando%20linhas%20(update%2Cdelete%2Ctruncate).md)
-* [Constraint - parâmetros]
+* [Constraint - parâmetros](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Explica%C3%A7%C3%B4es/Constraint.md)
 * [Exemplos de código]
 
 ## 💻 Prática 
