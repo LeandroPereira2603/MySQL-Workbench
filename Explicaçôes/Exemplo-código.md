@@ -1,8 +1,8 @@
 <p> Mostrando exemplos de todos os comandos SQL , no banco de dados "bd" com a tabela pessoa </p>
 
-# Criar
+## Criar
 
-##$ Criar  um Banco de dados exemplo : bd
+### Criar  um Banco de dados exemplo : bd
 
 ```sql
 CREATE DATABASE bd ;
@@ -36,7 +36,7 @@ USE bd ;
 ) DEFAULT CHARSET = utf8 ;
 
  ```
-# Inserir 
+## Inserir 
 
 ### Inserir um registro na tabela pessoas no bd 
 
@@ -86,17 +86,17 @@ ALTER TABLE pessoas
 ADD COLUMN profissao varchar (20) FIRST ;
 ```
 
-# Deletar 
+## Deletar 
 
-## Deletar a coluna profissao na tabela pessoas , no banco de dados bd 
+### Deletar a coluna profissao na tabela pessoas , no banco de dados bd 
 
 ```sql
  ALTER TABLE pessoas 
  DROP COLUMN profissao;
 ```
-# Modificar 
+## Modificar 
 
-## Modificando o tipo primitivo e constraint da coluna 
+##s.# Modificando o tipo primitivo e constraint da coluna 
 
 ```sql
  ALTER TABLE pessoas
@@ -117,7 +117,7 @@ ADD COLUMN profissao varchar (20) FIRST ;
  ALTER TABLE pessoas 
  RENAME TO pessoadois ;
 ```
-#  Ordenar 
+##  Ordenar 
 
 ### ORDER BY 
 
