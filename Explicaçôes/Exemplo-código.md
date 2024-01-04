@@ -2,13 +2,13 @@
 
 # Criar
 
-## Criar  um Banco de dados exemplo : bd
+##$ Criar  um Banco de dados exemplo : bd
 
 ```sql
 CREATE DATABASE bd ;
 ```
 
-## Verificar
+### Verificar
 
 <p> Verificar se o banco de dados esta selecionado , senão nenhum código irá funcionar  </p>
 
@@ -19,7 +19,7 @@ USE bd ;
 ```
 
 
-## Criar tabela e criar colunas com definição de tipo no bd   
+### Criar tabela e criar colunas com definição de tipo no bd   
 
  ```sql
 
@@ -38,7 +38,7 @@ USE bd ;
  ```
 # Inserir 
 
-## Inserir um registro na tabela pessoas no bd 
+### Inserir um registro na tabela pessoas no bd 
 
 ```sql
  INSERT INTO pessoas 
@@ -55,7 +55,7 @@ USE bd ;
  (id,'Ciclano Fulano ','1993-01-12','M', '75.4','2.83','BRASIL','1993');
 ```
 
-## Inserir vários registros na tabela pessoas para o banco de dados bd
+### Inserir vários registros na tabela pessoas para o banco de dados bd
 
 ```sql 
  INSERT INTO pessoas 
@@ -65,21 +65,21 @@ USE bd ;
  ('Fulano ','1990-01-12','M', '75.4','2.83','EUA','1995'),
  ('Beltrano','1983-01-12','M', '75.4','2.83','COREA',1994);
 ```
-## Inserir uma coluna profissao na tabela pessoas , no banco de dados bd
+### Inserir uma coluna profissao na tabela pessoas , no banco de dados bd
 
 ```sql
  ALTER TABLE pessoas 
  ADD COLUMN profissao varchar (20);
 ```
 
-## Inserir uma coluna profissao depois da coluna nome 
+### Inserir uma coluna profissao depois da coluna nome 
 
 ```sql
 ALTER TABLE pessoas 
 ADD COLUMN profissao varchar (20) AFTER nome ;
 ```
 
-## Inserir uma coluna profissao primeiro campo da tabela  
+### Inserir uma coluna profissao primeiro campo da tabela  
 
 ```sql
 ALTER TABLE pessoas 
@@ -103,15 +103,15 @@ ADD COLUMN profissao varchar (20) FIRST ;
  MODIFY COLUMN profissao varchar (20) NOT NULL  ;
 ```
 
-## Modificar o nome da coluna profissão para prof 
+### Modificar o nome da coluna profissão para prof 
 
 ```sql
  ALTER TABLE pessoas 
  CHANGE COLUMN profissao prof varchar(40) ;
 ```
-# Renomear
+## Renomear
 
-## Renomear o nome da tabela pessoas para pessoadois
+### Renomear o nome da tabela pessoas para pessoadois
 
 ```sql
  ALTER TABLE pessoas 
@@ -119,7 +119,7 @@ ADD COLUMN profissao varchar (20) FIRST ;
 ```
 #  Ordenar 
 
-## ORDER BY 
+### ORDER BY 
 
 <p> Organizar em ordem crescente a coluna nome da tabela pessoas </p>
 
@@ -141,7 +141,7 @@ ADD COLUMN profissao varchar (20) FIRST ;
  ORDER BY nome desc ;
 
 ```
-## GROUP BY
+### GROUP BY
 
 <p> Além de agrupar , organizar em ordem crescente  </p>
 
@@ -168,7 +168,7 @@ HAVING count(ano) >= 5
 ORDER BY count(*) ;
 ```
 
-# SELECT 
+## SELECT 
 
 ### Filtrar colunas 
 
