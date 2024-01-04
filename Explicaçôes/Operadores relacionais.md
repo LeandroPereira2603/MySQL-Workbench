@@ -1,24 +1,39 @@
-```sql
+```sql 
 
--- Between : entre --
--- AND : e -- 
+-- Maior > -- 
 
-SELECT * FROM cursos
-WHERE ano BETWEEN 2014 AND 2016 
+SELECT * FROM pessoas
+WHERE ano > 2000
 ORDER BY ano ;
 
--- IN : em --
+-- Maior e igual >= -- 
 
-SELECT * FROM cursos
-WHERE ano in (2014 ,2016)
+SELECT * FROM pessoas
+WHERE ano >= 2000
 ORDER BY ano ;
 
--- Operadores de Lógica 
+-- Menor < -- 
 
--- AND --
+SELECT * FROM pessoas
+WHERE ano < 2000
+ORDER BY ano ;
 
 
+-- Menor e igual <= -- 
+
+SELECT * FROM pessoas
+WHERE ano <= 2000
+ORDER BY ano ;
+
+-- Negação != -- 
+
+SELECT * FROM pessoas
+WHERE ano != 2000
+ORDER BY ano ;
 
 
--- OR -- 
+-- diferente <> -- 
 
+SELECT * FROM pessoas
+WHERE ano <> 2000
+ORDER BY ano ;
