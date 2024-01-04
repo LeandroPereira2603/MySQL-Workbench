@@ -10,7 +10,7 @@ CREATE DATABASE bd ;
 
 ## Verificar
 
-<p> Verificar se o banco de dados est selecionado , senão nenhum código irá funcionar  </p>
+<p> Verificar se o banco de dados esta selecionado , senão nenhum código irá funcionar  </p>
 
 ```sql
 
