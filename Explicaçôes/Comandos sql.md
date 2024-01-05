@@ -1,16 +1,17 @@
 
 ## AS
 
-vai nomear
+este comando com SELECT serve para nomear o atributo ,deixando mais detalhado , para melhor indentificar a nomenclatura do campo .
 
 ```sql
+
 SELECT ID_Cliente AS 'ID do cliente', Nome AS 'Nome de cliente ' , Data_Nascimento AS 'Data de nascimento ' , Email AS 'E-mail de clientes', FROM clientes;
 ```
 
 
 ## FROM
 
-<p> Este comando vai apontar qual a tabela a se referir </p>
+<p> Este comando vai apontar qual a tabela está se referindo para outro comando </p>
 
 ```sql
  SELECT * FROM pedido ;
@@ -28,7 +29,7 @@ LIMITE  5;
 
 ## ORDER BY 
 
-<P> Este comando vai organizar a coluna definida em decrescente ou crescente  </p>
+<P> Este comando vai organizar o campo "coluna" definida em decrescente ou crescente  </p>
 
 ```sql
  SELECT  * FROM  PRODUTOS 
@@ -37,14 +38,15 @@ LIMITE  5;
 
 ## SELECT 
 
-1.  <p>  Este comando vai selecionar toda a tabela , ou seja todas as colunas  e linhas. </p>
+1.  <p>  Este comando vai selecionar o campo
+ definido . </p>
          
  ```sql
   SELECT * FROM tabela;
  ```
  
 
-2. <p>Irá Selecionar apenas algumas colunas da tabela cliente </p>
+2. <p>Irá Selecionar apenas alguns campos "colunas" da tabela cliente </p>
 
  ```sql
   SELECT ID_Cliente, Nome , 
@@ -52,7 +54,7 @@ LIMITE  5;
   clientes;
  ```
 
-3. <p> Desta forma fica visualmente melhor     </p>
+3. <p> A indentação desta forma fica visualmente melhor :  </p>
 
  ```sql
   SELECT ID_Cliente, 
@@ -64,7 +66,7 @@ LIMITE  5;
 
 ## WHERE 
 
-<p> Serve para filtrar dados  </p>
+<p> Este comando serve para estabecer uma lógica ,definindo uma condição , para ser usado para filtrar ,selecionar , deletar e etc ... </p>
 
 1. Mostra apenas os produtos com preços iguais ou maiores que R$:1,000
 
@@ -107,6 +109,8 @@ LIMITE  5;
   WHERE Marca_Produto = 'DELL' OR Marca_Produto = 'Samsung' ;
  ```
 ## DROP
+
+<p> Este comando serve para deletar , só que deixa em brancoem algumas situações especificas , so com comando DELETE </p>
 
 1. Irá deletar o banco de dados cadastro
 
