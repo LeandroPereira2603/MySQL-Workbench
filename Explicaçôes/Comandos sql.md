@@ -38,8 +38,10 @@ LIMITE  5;
 
 ## SELECT 
 
-1.  <p>  Este comando vai selecionar o campo
+ <p>  Este comando vai selecionar o campo
  definido . </p>
+
+1. <p> Selecionando toda a tabela .</p>
          
  ```sql
   SELECT * FROM tabela;
