@@ -1,16 +1,17 @@
-<p> Mostrando exemplos de todos os comandos SQL , no banco de dados "bd" com a tabela pessoa </p>
+<p> Mostrando todos os exemplos dos comandos SQL :
+ banco de dados "bd" , tabela "pessoa" </p>
 
 ## Criar
 
-### Criar  um Banco de dados exemplo : bd
+### Criar um Banco de dados
 
 ```sql
 CREATE DATABASE bd ;
 ```
 
-### Verificar
+### Utilizar o banco de dados 
 
-<p> Verificar se o banco de dados esta selecionado , senão nenhum código irá funcionar  </p>
+<p> Usando o comando USE vai ativar o banco de dados para edição , senão nenhum código irá funcionar , pois o sistema não vai saber qual o banco de dados esta sendo de referência </p>
 
 ```sql
 
@@ -18,8 +19,7 @@ USE bd ;
 
 ```
 
-
-### Criar tabela e criar colunas com definição de tipo no bd   
+### Criar tabela e criar campos "colunas" com definição de tipo no bd   
 
  ```sql
 
