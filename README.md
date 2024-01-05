@@ -14,7 +14,7 @@
 
 
 
-## 📚 Tópicos de estudos 
+# 📚 Tópicos de estudos 
 
 
 ### Sobre SQL e utilidades do sofware MySql Workbench
@@ -35,7 +35,7 @@
 * [Constraint - parâmetros](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Explica%C3%A7%C3%B4es/Constraint.md)
 * [Exemplos de código](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Explica%C3%A7%C3%B4es/Exemplo-c%C3%B3digo.md)
 
-## 💻 Prática 
+# 💻 Prática 
 
 ### Exercicíos gerais : 
 
