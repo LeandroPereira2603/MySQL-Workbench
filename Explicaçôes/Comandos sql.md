@@ -19,7 +19,7 @@ SELECT ID_Cliente AS 'ID do cliente', Nome AS 'Nome de cliente ' , Data_Nascimen
 
 ## LIMITE
 
-<p> Este comando vai selecionar as cinco primeiras linhas  </p>
+<p> Este comando vai limitar até uma certo valor definido  </p>
 
 ```sql
 SELECT FROM  cliente 
@@ -28,7 +28,7 @@ LIMITE  5;
 
 ## ORDER BY 
 
-<P> Selecionar todas as linhas de tabela produtos ,mas ordenado pela coluna preco_unit </p>
+<P> Este comando vai organizar a coluna definida em decrescente ou crescente  </p>
 
 ```sql
  SELECT  * FROM  PRODUTOS 
