@@ -112,7 +112,7 @@ LIMITE  5;
  ```
 ## DROP
 
-<p> Este comando serve para deletar , só que deixa em brancoem algumas situações especificas , so com comando DELETE </p>
+<p> Este comando serve para deletar , só que deixa em branco em algumas situações especificas , so com comando DELETE </p>
 
 1. Irá deletar o banco de dados cadastro
 
