@@ -15,6 +15,9 @@ Server > Data import
 
 ## ATENÇÃO :
 
+> [!warning]
+> <strong> SGBD : </strong> MysQl Workbench .
+
 <p> O software tampa a informação de salvar a importação do arquivo no rodapé , por causo da tela de depuração , para tirar o layont vá no topo do lado direito, tem quatro botôes com desenho de layont , escolha que tem o layont com desenho do rodapé preenchida  . </p>
 
 
