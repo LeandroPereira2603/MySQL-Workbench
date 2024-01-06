@@ -35,7 +35,7 @@
 ) DEFAULT CHARSET = utf8 ;
 ```
 
-* AUTO_INCREMENT = toda vez que é adicionado um novo cadastro irá colocar um número em ordem crescente .
+* AUTO_INCREMENT = toda vez que é adicionado um novo cadastro irá colocar um número em ordem crescente , automatico  .
 * PRIMARY KEY = serve para não ter duplicidade .
 
 ## UNIQUE  /  USIGNED 
@@ -49,6 +49,6 @@
  ano year DEFAULT '2016'
  ) DEFAULT CHARSET = utf8;
 ```
-* IF NOT EXISTS = serve para verificar se ja tem no banco de dados , exemplo o nome cursos , para não reescrever por cima.
+* IF NOT EXISTS = serve para verificar se ja tem no banco de dados , exemplo o nome cursos , para não sub escrever por cima .
 * UNIQUE = serve para não deixar colocar o mesmo nome .
 * UNSIGNED = sem sinal .
