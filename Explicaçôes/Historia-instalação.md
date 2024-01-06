@@ -85,3 +85,8 @@ result set (painel de depuração )  = que mostra os  resultados dos dados da ta
 * Linhas = tudo que estiver em linas são registros  .
 * Colunas = Tudo que estiver em colunas são considerado campos ou atributos .
 * Dump = significa back up do banco de dados  .
+
+
+< [!note]
+< Referência - 
+< Curso em video 
