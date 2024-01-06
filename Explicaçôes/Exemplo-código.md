@@ -96,7 +96,7 @@ ADD COLUMN profissao varchar (20) FIRST ;
 ```
 ## Modificar 
 
-## Modificando o tipo primitivo e constraint da coluna 
+### Modificando o tipo primitivo e constraint da coluna 
 
 ```sql
  ALTER TABLE pessoas
