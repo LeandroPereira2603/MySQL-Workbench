@@ -11,11 +11,10 @@
 
 Server > Data import 
 
-<p> seleciona o arquivo dump para exportar </P>
-<p> vai pedir a senha root geralmente e vazio a não ser que colocou a senha ,se não colocou a senha e so apertar enter .</p>
+<p> seleciona o arquivo dump para exportar, vai pedir a senha root , o padrão e vazio, a não ser que colocou a senha ,se não colocou a senha e so apertar enter.</p>
 
 ## ATENÇÃO :
 
-<p> O software tampa a informação de salvar a importação do arquivo no rodapé por causo da tela de depuração , para tirar o layont vá no topo do lado direito, tem quatro botôes com desenho de layont , escolha que tem o layont rodapé . </p>
+<p> O software tampa a informação de salvar a importação do arquivo no rodapé , por causo da tela de depuração , para tirar o layont vá no topo do lado direito, tem quatro botôes com desenho de layont , escolha que tem o layont com desenho do rodapé preenchida  . </p>
 
 
