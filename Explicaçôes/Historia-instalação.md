@@ -87,6 +87,6 @@ result set (painel de depuração )  = que mostra os  resultados dos dados da ta
 * Dump = significa back up do banco de dados  .
 
 
-< [!note]
-< Referência - 
-< Curso em video 
+> [!note]
+> Referência - 
+> Curso em video 
