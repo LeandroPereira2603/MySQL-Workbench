@@ -7,7 +7,7 @@
 |Descrição | Logotipo   | Total |
 |:--: |:--:|:--:|
 | Abandonado | 🔴 | 0 |
-| Em desenvolvimento    |  🟡  | 0 |
+| Em desenvolvimento    |  🟡  | 5 |
 | Concluído    |  💻  | 1 |
 | Favorito | ⭐ | 0 |
 | Código Fonte - local do repositório | ☕| 1 |
