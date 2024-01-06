@@ -1,7 +1,6 @@
 # MySql - História  
 
-<p> Surgiu em 1970 graças a empresa cobasil que foi responsável de criar a lingagem de programação cobol que era com próposito destinado para defesena nacional dos estados unidos , foi uma que impulsionou a criação  do banco de dados por conta da lógica de programação , lançada em 
-23 de maio de 1995 desenvolvedor Oracle Corporation </p> 
+
 
 ## Intalando os softwares 
 
