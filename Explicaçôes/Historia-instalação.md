@@ -88,6 +88,6 @@ result set (painel de depuração )  = que mostra os  resultados dos dados da ta
 
 
 > [!note]
-> <strong>Referência</strong> <br>
+> <strong>Referência : </strong> <br>
 > * Curso em video 
 > * Uninove 
