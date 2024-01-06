@@ -13,7 +13,7 @@ Site oficial : [https://www.apachefriends.org/pt_br/download.html](https://www.a
 ##  Possiveis erros que pode ocasionar com XAMPP
 
 > [!warning] 
-> Atenção 
+> <strong>Atenção</strong>
 > SGBD - MySql Workbench
     
   ### ❌ Erro na porta de conexão :
