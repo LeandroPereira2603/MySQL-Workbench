@@ -17,7 +17,7 @@
 * ENUM = selecionar apenas estas duas opções .
 * DECIMAL  = DECIMAL(3,2) = 102,00 .
 * DEFAULT = se o úsuario não preencher este espaço , ira colocar o padrção Brasil .
-* DEFAULT CHARSET - UTF8 = vai padronizar com caracteres com acento .
+* DEFAULT CHARSET - UTF8 = vai padronizar com caracteres com acento em português.
 * os parâmetros em MySql são CONSTRAINT .
 
 ## PRIMARY KEY & AUTO INCREMENT  
