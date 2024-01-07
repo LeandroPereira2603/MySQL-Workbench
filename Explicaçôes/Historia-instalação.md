@@ -28,6 +28,8 @@ Site oficial : [https://www.apachefriends.org/pt_br/download.html](https://www.a
 
 ## PhpAdmin
 
+<p> Possiveis erros que podem acontecer com phpadmin. </p>
+
 > [!warning] 
 > <strong> ❌ Erro na porta no PhpAdmin : </strong> <br> <br>
 > Xampp - PhpAdmin <br>
