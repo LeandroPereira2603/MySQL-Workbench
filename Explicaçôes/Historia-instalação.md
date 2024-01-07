@@ -14,9 +14,9 @@ Site oficial : [https://www.apachefriends.org/pt_br/download.html](https://www.a
 
 > [!warning] 
 > <strong> Atenção : </strong>
-> ❌ Erro na porta de conexão 
-> SGBD - MySql Workbench
-> 1 - A porta de conexão para o servidor,podee stá > sendo utilizado por outro software , 
+> #### ❌ Erro na porta de conexão <b>
+> SGBD - MySql Workbench <b>
+> 1 - A porta de conexão para o servidor, pode  stá > sendo utilizado por outro software , 
 > o padrão está como porta = "3306"  </p>
     
 <p> ✅ <strong> Solução:</strong>  </p>
