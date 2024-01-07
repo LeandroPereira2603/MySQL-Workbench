@@ -1,8 +1,8 @@
 # MySql - História  
 
+*
 
-
-## Intalando os softwares 
+# Intalando os softwares 
 
 ### MySql Workbench 8.0 (SGBD)
 Site oficial : [https://dev.mysql.com/downloads/workbench/](https://dev.mysql.com/downloads/workbench/) 
@@ -14,7 +14,7 @@ Site oficial : [https://www.apachefriends.org/pt_br/download.html](https://www.a
 
 ##  SBDG : MySql workbench
 
-<p> Possiveis wrros que pode acontecer no softwar SBDG : MySsql - Workbench . </p> 
+<p> Possiveis erros que pode acontecer no software SBDG : MySsql - Workbench . </p> 
 
 > [!warning] 
 > <strong>❌ Erro na porta de conexão </strong>  <br> <br>
