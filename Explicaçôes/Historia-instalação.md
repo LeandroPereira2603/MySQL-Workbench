@@ -34,7 +34,8 @@ Site oficial : [https://www.apachefriends.org/pt_br/download.html](https://www.a
 > 1 - Erro PhpAdmin , a porta não está de acordo 
 > com o mesma porta na config no apache para 
 > acessar phpadmin , vai na config do apache >
-> phpadmin conf e altere no segundo parágrafo com o > número parecido com este com vários pontos 
+> phpadmin conf e altere no segundo parágrafo com o
+> número parecido com este com vários pontos 
 > “1.00.006.00” e troque para “localhost:3307” 
 > salve o arquivo , e abra o phpadmin . <br> <br>
 > ✅ <strong> Solução : </strong> <br> <br>
