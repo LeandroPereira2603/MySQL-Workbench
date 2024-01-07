@@ -13,8 +13,8 @@ Site oficial : [https://www.apachefriends.org/pt_br/download.html](https://www.a
 ##  Possiveis erros que pode ocasionar com XAMPP
 
 > [!warning] 
-> ❌ Erro na porta de conexão <b>
-> SGBD - MySql Workbench <b>
+> ❌ Erro na porta de conexão <b> <br>
+> SGBD - MySql Workbench 
 > 1 - A porta de conexão para o servidor, pode  stá > sendo utilizado por outro software , 
 > o padrão está como porta = "3306"  </p>
     
