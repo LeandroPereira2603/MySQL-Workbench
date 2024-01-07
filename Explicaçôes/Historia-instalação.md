@@ -47,7 +47,7 @@ Site oficial : [https://www.apachefriends.org/pt_br/download.html](https://www.a
     
   
 
-## Sintaxe da Linguagem 
+# Sintaxe da Linguagem 
 
 <p> pode deixar os comandos em uppercase "maiusculo"  </p>
 
@@ -85,7 +85,7 @@ create database cadastro;
 
 
 
-## Boas práticas de programação MySql
+# Boas práticas de programação MySql
 
 ### Sobre a nomenclatura 
 **S**tructured **E**nglish **Qu**ery **L**anguage  <BR>
