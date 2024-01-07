@@ -17,10 +17,10 @@ Site oficial : [https://www.apachefriends.org/pt_br/download.html](https://www.a
 > SGBD - MySql Workbench 
 > 1 - A porta de conexão para o servidor, 
 > pode está sendo utilizado por outro software , 
-> o padrão está como porta = "3306"  </p>
-    
-<p> ✅ <strong> Solução:</strong>  </p>
-<p>  vá no painel xampp MYSQL conf > my.ini no começo depois dos coméntarios do passaword vai ter o código port=3306 troque para port=3307 , e salve o arquivo </p>
+> o padrão está como porta = "3306" <br>
+> ✅ <strong> Solução:</strong> <br>
+> vá no painel xampp MYSQL conf > my.ini no começo > depois dos coméntarios do passaword vai ter 
+> código port=3306 troque para port=3307 , e salve > o arquivo </p>
 
 > [!warning] 
 > <strong> ❌ Erro na porta no PhpAdmin : </strong> <br> <br>
