@@ -10,9 +10,11 @@ Site oficial : [https://dev.mysql.com/downloads/workbench/](https://dev.mysql.co
 ### XAMPP (Servidor)
 Site oficial : [https://www.apachefriends.org/pt_br/download.html](https://www.apachefriends.org/pt_br/download.html)
 
-##  Possiveis erros que pode ocasionar com XAMPP
+# XAMPP
 
-## SBDG : MySql workbench
+##  SBDG : MySql workbench
+
+<p> Possiveis wrros que pode acontecer no softwar SBDG : MySsql - Workbench . </p> 
 
 > [!warning] 
 > <strong>❌ Erro na porta de conexão </strong>  <br> <br>
