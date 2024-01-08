@@ -54,5 +54,5 @@
 * UNSIGNED = sem sinal .
 
 > [!NOTE] 
-> **Fonte :** 
-> Curso em video 
+> **Fonte :**  <br>
+> * Curso em video 
