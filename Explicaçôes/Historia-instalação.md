@@ -18,7 +18,7 @@ Site oficial : [https://www.apachefriends.org/pt_br/download.html](https://www.a
 
 > [!warning] 
 > <strong>❌ Erro na porta de conexão </strong>  <br> <br>
-> 1 - A porta de conexão para o servidor, 
+> A porta de conexão para o servidor, 
 > pode está sendo utilizado por outro software , 
 > o padrão está como porta = "3306" <br> <br>
 > ✅ <strong> Solução:</strong> <br> <br>
@@ -30,8 +30,8 @@ Site oficial : [https://www.apachefriends.org/pt_br/download.html](https://www.a
 <p> Possiveis erros que podem acontecer com phpadmin. </p>
 
 > [!warning] 
-> <strong> ❌ Erro na porta no PhpAdmin : </strong> <br> <br>
-> 1 - Erro PhpAdmin , a porta não está de acordo 
+> <strong> ❌ Erro na porta no PhpAdmin  </strong> <br> <br>
+> Erro PhpAdmin , a porta não está de acordo 
 > com o mesma porta na config no apache para 
 > acessar phpadmin , vai na config do apache >
 > phpadmin conf e altere no segundo parágrafo com o
