@@ -21,5 +21,5 @@
 ## Espacial 
   
 
-*  **Especial** :  geometry , Point , Polygon , MultiPolygon.  
+*  **Especial** : Geometry , Point , Polygon , MultiPolygon.  
 
