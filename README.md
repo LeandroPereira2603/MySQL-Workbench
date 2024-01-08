@@ -4,13 +4,13 @@
 
 <strong> Legenda :</strong>
 
-|Descrição | Logotipo   | Total |
-|:--: |:--:|:--:|
-| Abandonado | 🔴 | 0 |
-| Em desenvolvimento    |  🟡  | 5 |
-| Concluído    |  💻  | 1 |
-| Favorito | ⭐ | 0 |
-| Código Fonte - local do repositório | ☕| 1 |
+|Descrição | Logotipo   | 
+|:--: |:--:|
+| Abandonado | 🔴 | 
+| Em desenvolvimento    |  🟡  | 
+| Concluído    |  💻  | 
+| Favorito | ⭐ | 
+| Código Fonte - local do repositório | ☕| 
 
 
 
