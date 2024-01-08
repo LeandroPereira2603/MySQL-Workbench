@@ -52,3 +52,7 @@
 * IF NOT EXISTS = serve para verificar se ja tem no banco de dados , exemplo o nome cursos , para não sub escrever por cima da tabela existente .
 * UNIQUE = serve para não deixar colocar o mesmo nome .
 * UNSIGNED = sem sinal .
+
+> [!NOTE] 
+> **Fonte :** 
+> Curso em video 
