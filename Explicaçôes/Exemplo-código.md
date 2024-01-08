@@ -1,5 +1,5 @@
 <p> Mostrando todos os exemplos dos comandos SQL :
- banco de dados "bd" , tabela "pessoa" </p>
+ banco de dados "bd" , tabela "pessoa"</p>
 
 ## Criar
 
