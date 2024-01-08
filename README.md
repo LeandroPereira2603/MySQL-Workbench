@@ -11,6 +11,7 @@
 | Concluído    |  💻  | 
 | Favorito | ⭐ | 
 | Código Fonte - local do repositório | ☕| 
+| Exercicio em andamento |  🕗  |  
 | Exercicio concluido | ✔ | 
 
 
