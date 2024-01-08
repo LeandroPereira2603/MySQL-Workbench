@@ -11,7 +11,7 @@
 | Concluído    |  💻  | 
 | Favorito | ⭐ | 
 | Código Fonte - local do repositório | ☕| 
-
+| Exercicio concluido | ✔ | 
 
 
 # 📚 Tópicos de estudos 
@@ -39,7 +39,7 @@
 
 ### Exercicíos gerais : 
 
-* 💻 Criar e alterar o Banco de dados : bd  ☕ [Arquivo: SQL](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Pratica/bd.sql)
+* ✔ Criar e alterar o Banco de dados : bd  ☕ [Arquivo: SQL](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Pratica/bd.sql)
 
 
 ### Situações : 
