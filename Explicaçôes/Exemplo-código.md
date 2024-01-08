@@ -352,3 +352,8 @@ SELECT SUM(peso) FROM pessoas ;
 SELECT AVG(peso) FROM pessoas ;
 
 ```
+
+> [!NOTE]
+> **Fonte :** <br>
+> * Curso em video 
+
