@@ -93,7 +93,7 @@ create database cadastro;
 
 Parâmetro = em MySql é constraint .
 * result set (painel de depuração )  = que mostra os  resultados dos dados da tabela das instruçôes  .
-* Linhas = tudo que estiver em linas são registros  .
+* Linhas = tudo que estiver em linhas são registros  .
 * Colunas = Tudo que estiver em colunas são considerado campos ou atributos .
 * Dump = significa back up do banco de dados  .
 
