@@ -49,7 +49,7 @@ Site oficial : [https://www.apachefriends.org/pt_br/download.html](https://www.a
 
 # Regras de sintaxe da Linguagem 
 
-<p> pode deixar os comandos em uppercase "maiusculo"  </p>
+<p> Pode deixar os comandos em uppercase "maiusculo"  </p>
 
 ```sql
 CREATE DATABASE cadastro;
@@ -63,7 +63,7 @@ create database cadastro;
 <p> LLP : Particulamente prefiro usar a sintaxe uppercase , fica mais claro e robusto visualmente , mas fica o critério do programador ou da empresa . </p>
 
 
-<p> pode definir os nomes com crase ou sem crase , o recomendado é sem crase . </p>
+<p> Pode definir os nomes com crase ou sem crase , o recomendado é sem crase . </p>
 
 ```SQL 
  CREATE TABLE exemplo (
@@ -72,7 +72,7 @@ create database cadastro;
  );
 ```
 
-<p> exemplo sem crase </p>
+<p> Exemplo sem crase </p>
 
 ```SQL 
  CREATE TABLE exemplo (
@@ -81,7 +81,7 @@ create database cadastro;
  );
 ```
 
-<p> observa-se que o último definição para nome e tipo não tem virgula , para apontar que e a ultima instrução , isto e obrigatório se não vai dar erro de sintaxe </p>
+<p> Observa-se que o último definição para nome e tipo não tem virgula , para apontar que e a ultima instrução , isto e obrigatório se não vai dar erro de sintaxe .</p>
 
 
 # Boas práticas de programação MySql
