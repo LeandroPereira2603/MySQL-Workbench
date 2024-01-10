@@ -86,7 +86,8 @@ LIMITE  5;
   WHERE Marca_Produto = 'DELL';
  ```
 
-3. Mostra apenas OS PEDIDOS FEITOS NO DIA 03/01/2019,colocar no formato americano 
+3. Mostra apenas os pedidos feito do dia
+ 03/01/2019,colocar no formato americano 
 
  ```sql
   SELECT  * 
@@ -95,7 +96,7 @@ LIMITE  5;
  ```
 
 
-4. Mostra apenas OS clientes do sexo masculino  
+4. Mostra apenas os clientes do sexo masculino  
 
  ```sql
   SELECT  * 
@@ -130,7 +131,7 @@ LIMITE  5;
  ```sql
  ORDER BY nome ;;
  ```
-<p> vai ordenar organizar a coluna nome da  tabela  em ordem crescente . 
+<p> Vai ordenar organizar a coluna nome da  tabela  em ordem crescente . 
 
 ## Definir o padrão de caractere utf8
 
@@ -153,14 +154,14 @@ LIMITE  5;
 
 ## DISTINCT
 
-<p> para tirar a replica de numeros e caracteres da lista </p>
+<p> Para tirar a replica de numeros e caracteres da lista </p>
 
   ```MySql
     SELECT DISTINCT Nacionalidade FROM cadastro ;
    ```
 ## Count 
 
-<p> serve para contar os itens  </p>
+<p> Serve para contar os itens  </p>
 
   ```MySql
     SELECT COUNT(*) FROM cadastro ;
