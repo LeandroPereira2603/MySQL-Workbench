@@ -99,23 +99,25 @@ result set (painel de depuração )  = que mostra os  resultados dos dados da ta
 
  ### **DDL** (Data Define Language)
 
-  <p> Linguagem de definição : CREATE , ALTER , DROP , TRUNCATE , RENAME .</p> <br>
+  <p> Linguagem de definição : CREATE , ALTER , DROP , TRUNCATE , RENAME .</p> 
 
 ### **DML** (Data Manipulation Language)
  
-  <p> Linguagem de manipulação : INSERT , UPDATE , DELETE , MERGE .</P><br>
+  <p> Linguagem de manipulação : INSERT , UPDATE , DELETE , MERGE .</P>
 
  ### **DCL** (Data Control Language)
 
-  <p> Linguagem de controle : GRANT , REVOKE .</p> <br>
+  <p> Linguagem de controle : GRANT , REVOKE .</p> 
+
 
  ### **TCL** ou **DTL** (Translation Control Language)
 
-  <p> Linguagem de controle : COMMIT , ROLLBACK , SAVE POINT .</P> <br>
+  <p> Linguagem de controle : COMMIT , ROLLBACK , SAVE POINT .</p> 
 
   ### **DQL** (Data Query Language )
 
-  <p> SELECT </p> <br>
+  <p> SELECT </p> <
+
 
 
 
