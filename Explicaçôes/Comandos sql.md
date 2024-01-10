@@ -5,7 +5,7 @@ este comando com SELECT serve para nomear o atributo ,deixando mais detalhado , 
 
 ```sql
 
-SELECT ID_Cliente AS 'ID do cliente', Nome AS 'Nome de cliente ' , Data_Nascimento AS 'Data de nascimento ' , Email AS 'E-mail de clientes', FROM clientes;
+SELECT ID_Cliente AS 'ID do cliente', Nome AS 'Nome de cliente ' , Data_Nascimento AS 'Data de nascimento ' , Email AS 'E-mail de clientes', FROM clientes.
 ```
 
 
@@ -20,7 +20,7 @@ SELECT ID_Cliente AS 'ID do cliente', Nome AS 'Nome de cliente ' , Data_Nascimen
 
 ## LIMITE
 
-<p> Este comando vai limitar até uma certo valor definido  </p>
+<p> Este comando vai limitar até uma certo valor definido.  </p>
 
 ```sql
 SELECT FROM  cliente 
@@ -29,7 +29,7 @@ LIMITE  5;
 
 ## ORDER BY 
 
-<P> Este comando vai organizar o campo "coluna" definida em decrescente ou crescente  </p>
+<P> Este comando vai organizar o campo "coluna" definida em decrescente ou crescente . </p>
 
 ```sql
  SELECT  * FROM  PRODUTOS 
@@ -48,7 +48,7 @@ LIMITE  5;
  ```
  
 
-2. <p>Irá Selecionar apenas alguns campos "colunas" da tabela cliente </p>
+2. <p>Irá Selecionar apenas alguns campos "colunas" da tabela cliente. </p>
 
  ```sql
   SELECT ID_Cliente, Nome , 
@@ -78,7 +78,7 @@ LIMITE  5;
   WHERE  Preco_Unit = 3100;
  ```
 
-2. Mostra apenas os produtos da marca DELL
+2. Mostra apenas os produtos da marca DELL.
 
  ```sql
   SELECT  * 
@@ -87,7 +87,7 @@ LIMITE  5;
  ```
 
 3. Mostra apenas os pedidos feito do dia
- 03/01/2019,colocar no formato americano 
+ 03/01/2019,colocar no formato americano .
 
  ```sql
   SELECT  * 
@@ -96,7 +96,7 @@ LIMITE  5;
  ```
 
 
-4. Mostra apenas os clientes do sexo masculino  
+4. Mostra apenas os clientes do sexo masculino . 
 
  ```sql
   SELECT  * 
@@ -104,7 +104,7 @@ LIMITE  5;
   WHERE  Estado_Civil = 's' AND sexo = 'M' ;
  ```
 
-5. Mostra apenas OS produtos da marca Dell ou Samsung 
+5. Mostra apenas OS produtos da marca Dell ou Samsung .
 
  ```sql
   SELECT  * 
@@ -113,7 +113,7 @@ LIMITE  5;
  ```
 ## DROP
 
-<p> Este comando serve para deletar , só que deixa em branco em algumas situações especificas , so com comando DELETE </p>
+<p> Este comando serve para deletar , só que deixa em branco em algumas situações especificas , so com comando DELETE. </p>
 
 1. Irá deletar o banco de dados cadastro
 
@@ -121,7 +121,7 @@ LIMITE  5;
  DROP DATABASE cadastro;
  ```
 
-2. Irá deletar a tabela cadastro;
+2. Irá deletar a tabela cadastro.
 
  ```sql
  DROP TABLE cadastro;
@@ -129,13 +129,13 @@ LIMITE  5;
 ## ORDER BY 
 
  ```sql
- ORDER BY nome ;;
+ ORDER BY nome ;
  ```
 <p> Vai ordenar organizar a coluna nome da  tabela  em ordem crescente . 
 
-## Definir o padrão de caractere utf8
+## Definir o padrão de caractere utf8.
 
-<p> Tem que colocar junto ao criar o banco de dados para funcionar  </p>
+<p> Tem que colocar junto ao criar o banco de dados para funcionar . </p>
 
  ```MySql
  CREATE DATABASE cadastro 
@@ -145,7 +145,7 @@ LIMITE  5;
 
 ## LIKE 
 
-<p> Vai mostrar todos nomes que começam com a letra p  </p>
+<p> Vai mostrar todos nomes que começam com a letra p . </p>
 
    ```MySql
     SELECT * FROM cadastro
@@ -154,14 +154,14 @@ LIMITE  5;
 
 ## DISTINCT
 
-<p> Para tirar a replica de numeros e caracteres da lista </p>
+<p> Para tirar a replica de numeros e caracteres da lista. </p>
 
   ```MySql
     SELECT DISTINCT Nacionalidade FROM cadastro ;
    ```
 ## Count 
 
-<p> Serve para contar os itens  </p>
+<p> Serve para contar os itens  .</p>
 
   ```MySql
     SELECT COUNT(*) FROM cadastro ;
@@ -170,7 +170,7 @@ LIMITE  5;
 
 ## Máximo 
 
-<p> Verificar qual é o ano máximo cadasrado da tabela pessoas  </p>
+<p> Verificar qual é o ano máximo cadasrado da tabela pessoas . </p>
 
 ```sql
 
@@ -204,7 +204,7 @@ SELECT MIN(peso) FROM pessoas WHERE ano = '1993' ;
 SELECT nome , MIN(peso) FROM pessoas WHERE ano = '1993' ;
 
 ```
-<p> Somar todos os pesos da tabela pessoas
+<p> Somar todos os pesos da tabela pessoas .
 
 ```sql 
 
@@ -213,7 +213,7 @@ SELECT SUM(peso) FROM pessoas ;
 ```
 ## AVG
 
-<p> Media de todos os pesos da tabela pessoas
+<p> Media de todos os pesos da tabela pessoas .
 
 ```sql 
 
@@ -222,7 +222,7 @@ SELECT AVG(peso) FROM pessoas ;
 ```
 ## HAVING
 
-<p> E o mesmo que o comando WHERE , só que especifico para o comando GROUP BY e ORDER BY </p>
+<p> E o mesmo que o comando WHERE , só que especifico para o comando GROUP BY e ORDER BY . </p>
 
 ```sql
 SELECT ano, COUNT(*) FROM cursos
@@ -237,19 +237,19 @@ ORDER BY count(*) ;
  
    **DDL** (Data Define Language)
 
-  <p> Linguagem de definição : CREATE , ALTER , DROP , TRUNCATE , RENAME  </p> <br>
+  <p> Linguagem de definição : CREATE , ALTER , DROP , TRUNCATE , RENAME .</p> <br>
 
   **DML** (Data Manipulation Language)
  
-  <p> Linguagem de manipulação : INSERT , UPDATE , DELETE , MERGE</P><br>
+  <p> Linguagem de manipulação : INSERT , UPDATE , DELETE , MERGE .</P><br>
 
    **DCL** (Data Control Language)
 
-  <p> linguagem de controle : GRANT , REVOKE  </p> <br>
+  <p> Linguagem de controle : GRANT , REVOKE .</p> <br>
 
    **TCL** ou **DTL** (Translation Control Language)
 
-  <p> linguagem de controle : COMMIT , ROLLBACK , SAVE POINT</P> <br>
+  <p> Linguagem de controle : COMMIT , ROLLBACK , SAVE POINT .</P> <br>
 
    **DQL** (Data Query Language )
 
@@ -265,23 +265,23 @@ ou
 ```sql
     desc pessoas
  ```
-   <p> serve para mostrar as informaçôes do tipo e os nomes da tabela </p>
+   <p> Serve para mostrar as informaçôes do tipo e os nomes da tabela .</p>
 
  ```sql
     show database
  ```
-   <p> mostra todos os bancos de dados </p>
+   <p> Mostra todos os bancos de dados .</p>
 
  ```sql
   use cadastro
  ```
 
-   <p> vai selecionar o banco de dados cadastro  que </p>
+   <p> Vai selecionar o banco de dados cadastro  que  .</p>
 
  ```sql
   status
  ```
-  <p> mostra qual e o banco de dados que  esta sendo formatado </p>
+  <p> Mostra qual e o banco de dados que  esta sendo formatado . </p>
    
  ```sql
   show table
