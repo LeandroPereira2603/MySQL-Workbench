@@ -47,7 +47,7 @@ Site oficial : [https://www.apachefriends.org/pt_br/download.html](https://www.a
     
   
 
-# Sintaxe da Linguagem 
+# Regras de sintaxe da Linguagem 
 
 <p> pode deixar os comandos em uppercase "maiusculo"  </p>
 
@@ -84,7 +84,6 @@ create database cadastro;
 <p> observa-se que o último definição para nome e tipo não tem virgula , para apontar que e a ultima instrução , isto e obrigatório se não vai dar erro de sintaxe </p>
 
 
-
 # Boas práticas de programação MySql
 
 ### Sobre a nomenclatura 
@@ -97,6 +96,28 @@ result set (painel de depuração )  = que mostra os  resultados dos dados da ta
 * Linhas = tudo que estiver em linas são registros  .
 * Colunas = Tudo que estiver em colunas são considerado campos ou atributos .
 * Dump = significa back up do banco de dados  .
+
+ ### **DDL** (Data Define Language)
+
+  <p> Linguagem de definição : CREATE , ALTER , DROP , TRUNCATE , RENAME .</p> <br>
+
+### **DML** (Data Manipulation Language)
+ 
+  <p> Linguagem de manipulação : INSERT , UPDATE , DELETE , MERGE .</P><br>
+
+ ### **DCL** (Data Control Language)
+
+  <p> Linguagem de controle : GRANT , REVOKE .</p> <br>
+
+ ### **TCL** ou **DTL** (Translation Control Language)
+
+  <p> Linguagem de controle : COMMIT , ROLLBACK , SAVE POINT .</P> <br>
+
+  ### **DQL** (Data Query Language )
+
+  <p> SELECT </p> <br>
+
+
 
 
 > [!note]
