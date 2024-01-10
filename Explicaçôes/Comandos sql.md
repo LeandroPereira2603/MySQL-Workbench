@@ -235,23 +235,23 @@ ORDER BY count(*) ;
 
   ## Nomenclaturas : siglas de indentificação 
  
-   **DDL** (Data Define Language)
+  ### **DDL** (Data Define Language)
 
   <p> Linguagem de definição : CREATE , ALTER , DROP , TRUNCATE , RENAME .</p> <br>
 
-  **DML** (Data Manipulation Language)
+  ### **DML** (Data Manipulation Language)
  
   <p> Linguagem de manipulação : INSERT , UPDATE , DELETE , MERGE .</P><br>
 
-   **DCL** (Data Control Language)
+  ### **DCL** (Data Control Language)
 
   <p> Linguagem de controle : GRANT , REVOKE .</p> <br>
 
-   **TCL** ou **DTL** (Translation Control Language)
+  ### **TCL** ou **DTL** (Translation Control Language)
 
   <p> Linguagem de controle : COMMIT , ROLLBACK , SAVE POINT .</P> <br>
 
-   **DQL** (Data Query Language )
+   ### **DQL** (Data Query Language )
 
   <p> SELECT </p> <br>
 
