@@ -95,7 +95,7 @@ LIMITE  5;
  ```
 
 
-4. Mostra apenas OS clientess Solteiroa do sexo masculino  
+4. Mostra apenas OS clientes do sexo masculino  
 
  ```sql
   SELECT  * 
