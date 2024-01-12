@@ -10,15 +10,16 @@ Then, you must show the names of all customers whose state is 'RS'.
 
 # _Schema_
 
-customers
-Column	Type
-id (PK)	numeric
-name	varchar
-street	varchar
-city	varchar
-state	char
-credit_limit	number 
-Tables
+|customers|
+|:--:|
+|Column	Type|
+|id (PK)	numeric|
+|name	varchar|
+|street	varchar|
+|city	varchar|
+|state	char|
+|credit_limit	number |
+|Tables|
 
 # _customers_
 
