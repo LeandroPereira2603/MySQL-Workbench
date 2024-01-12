@@ -50,7 +50,8 @@ Beecrowd é uma plataforma exclusivo para programadores , iniciante ao avaçado 
 </p>
 
 ### 1 - Begin :
- 1.🕗[Select-basic](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Pratica%2Fbeecrowd%2Fbasic-select.md);
+
+ 1.🕗[ Select-basic](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Pratica%2Fbeecrowd%2Fbasic-select.md);
 
 
 
