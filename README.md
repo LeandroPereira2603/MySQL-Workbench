@@ -43,6 +43,18 @@
 * ✔ Criar e alterar o Banco de dados : bd  ☕ [Arquivo: SQL](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Pratica/bd.sql)
 
 
+## 💻 Beecrowd : Exercicios gerais
+
+<p>
+Beecrowd é uma plataforma exclusivo para programadores , iniciante ao avaçado , para resolver problemas em categorias em gerais .
+</p>
+
+### 1 - Begin :
+
+* 
+
+
+
 ### Situações : 
 
 * [Banco de dados : ]
