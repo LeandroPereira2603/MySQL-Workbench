@@ -41,7 +41,7 @@ Then, you must show the names of all customers whose state is 'RS'.
 
 ```sql
 
-SELECT * FROM customers
+SELECT name FROM customers
 WHERE id IN (1,4,5);
 
 
