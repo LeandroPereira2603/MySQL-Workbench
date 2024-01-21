@@ -39,7 +39,7 @@ Then, you must show the names of all customers whose state is 'RS'.
 |Jane Ester|
 |Marcos Antônio dos Santos |
 
-```postgresql
+```Sql
 
 select name from customers where state = 'RS'
 
