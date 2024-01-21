@@ -36,12 +36,14 @@
 * [Constraint - parâmetros](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Explica%C3%A7%C3%B4es/Constraint.md)
 * [Exemplos de código](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Explica%C3%A7%C3%B4es/Exemplo-c%C3%B3digo.md)
 
-# 💻 Prática 
+# 💻 Prática ( SQL )
 
 ### Exercicíos gerais : 
 
 * ✔ Criar e alterar o Banco de dados : bd  ☕ [Arquivo: SQL](https://github.com/LeandroPereira2603/MySQL-Workbench/blob/main/Pratica/bd.sql)
 
+
+# 💻 Prática ( PostgreSQL )
 
 ## 💻 Beecrowd : Exercicios gerais
 
